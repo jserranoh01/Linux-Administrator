@@ -1,39 +1,39 @@
-# 🐧 Linux Administrator Laboratory
+# 🐧 Laboratorio de Administración Linux
 
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
 ![Bash](https://img.shields.io/badge/Scripting-Bash-green)
-![Status](https://img.shields.io/badge/Project-Learning-blue)
+![Estado](https://img.shields.io/badge/Proyecto-Aprendizaje-blue)
 
-## 📌 Description
+## 📌 Descripción
 
-Personal laboratory focused on Linux system administration.
+Laboratorio personal enfocado en la administración de sistemas Linux.
 
-The objective of this project is to document my learning process and practice real administration tasks commonly performed by a System Administrator.
+El objetivo de este proyecto es documentar mi proceso de aprendizaje y practicar tareas reales de administración que normalmente realiza un Administrador de Sistemas.
 
-## 🎯 Objectives
+## 🎯 Objetivos
 
-- Install and configure Linux servers.
-- Manage users and permissions.
-- Configure network services.
-- Administrate remote access.
-- Deploy web services.
-- Improve system security.
-- Automate repetitive tasks using Bash scripts.
+- Instalar y configurar servidores Linux.
+- Gestionar usuarios y permisos.
+- Configurar servicios de red.
+- Administrar accesos remotos.
+- Desplegar servicios web.
+- Mejorar la seguridad del sistema.
+- Automatizar tareas repetitivas mediante scripts Bash.
 
 ---
 
-# 🖥️ Environment
+# 🖥️ Entorno
 
-## Operating System
+## Sistema Operativo
 
 - Ubuntu Server 24.04 LTS
 
-## Virtualization
+## Virtualización
 
 - VirtualBox
 - VMware
 
-## Tools
+## Herramientas
 
 - SSH
 - Bash
@@ -44,53 +44,53 @@ The objective of this project is to document my learning process and practice re
 
 ---
 
-# 📚 Contents
+# 📚 Contenido
 
-## 01 - Installation
+## 01 - Instalación
 
-Installation and initial configuration of Ubuntu Server.
+Instalación y configuración inicial de Ubuntu Server.
 
-Topics:
+Temas:
 
-- Partitioning
-- Network configuration
-- Hostname configuration
-- Package updates
-
----
-
-## 02 - Users and Permissions
-
-Administration of Linux users.
-
-Topics:
-
-- User creation
-- Groups
-- Permissions
-- sudo administration
-- File ownership
+- Particionado del disco
+- Configuración de red
+- Configuración del nombre del equipo (hostname)
+- Actualización de paquetes
 
 ---
 
-## 03 - Networking
+## 02 - Usuarios y Permisos
 
-Basic network administration.
+Administración de usuarios en Linux.
 
-Topics:
+Temas:
 
-- IP configuration
+- Creación de usuarios
+- Grupos
+- Permisos
+- Administración de sudo
+- Propiedad de archivos
+
+---
+
+## 03 - Redes
+
+Administración básica de redes.
+
+Temas:
+
+- Configuración de IP
 - DNS
-- Routing
-- Network troubleshooting
+- Enrutamiento
+- Resolución de problemas de red
 
 ---
 
-## 04 - Services
+## 04 - Servicios
 
-Configuration of common Linux services.
+Configuración de servicios habituales en Linux.
 
-Services:
+Servicios:
 
 - SSH
 - Apache
@@ -98,41 +98,41 @@ Services:
 
 ---
 
-## 05 - Security
+## 05 - Seguridad
 
-Basic Linux hardening.
+Endurecimiento básico de Linux.
 
-Topics:
+Temas:
 
-- Firewall configuration
-- SSH security
-- Updates management
-- User security
-
----
-
-## 06 - Automation
-
-Bash scripts created to automate administration tasks.
-
-Examples:
-
-- User creation
-- Backups
-- Maintenance scripts
+- Configuración del firewall
+- Seguridad de SSH
+- Gestión de actualizaciones
+- Seguridad de usuarios
 
 ---
 
-# 🚀 Future improvements
+## 06 - Automatización
 
-- Docker deployment.
-- Ansible automation.
-- Monitoring with Grafana and Prometheus.
-- Advanced security configurations.
+Scripts Bash creados para automatizar tareas de administración.
+
+Ejemplos:
+
+- Creación de usuarios
+- Copias de seguridad
+- Scripts de mantenimiento
 
 ---
 
-# 👨‍💻 Author
+# 🚀 Mejoras futuras
+
+- Despliegue con Docker.
+- Automatización con Ansible.
+- Monitorización con Grafana y Prometheus.
+- Configuraciones avanzadas de seguridad.
+
+---
+
+# 👨‍💻 Autor
 
 José Antonio Serrano Hernández
 

@@ -370,27 +370,3 @@ Después de completar esta instalación:
 
 ---
 
-# 📁 Estructura recomendada del proyecto
-
-```text
-linux-admin-lab/
-│
-├── 01-installation/
-│   └── ubuntu-server-install.md
-│
-├── 02-users-permissions/
-│   └── users.md
-│
-├── 03-networking/
-│   └── network.md
-│
-├── 04-services/
-│   ├── ssh.md
-│   ├── apache.md
-│   └── nginx.md
-│
-└── scripts/
-    └── backup.sh
-```
-
-
